@@ -12,15 +12,18 @@ One domain object that we implemented in our solution is the game class. The gam
 
 #Name of Project: 
 NFL Scheduler
+
 #Name of Team: 
 J&J Solutions
+
 #Team Members:
-Jason Vernoff (Section 1) and Jared Raines (Section 1)
+Jason Vernoff (Section 3) and Jared Raines (Section 3)
+
 #Brief Description of Project: 
 Our team created a database that NFL players could theoretically use to keep track of their games and statistics. 
+
 #UML Link: 
 https://lucid.app/documents/view/bae65211-fdc9-411e-b5ff-209cd0f39980
-
 
 
 #Description of the user data model: 
